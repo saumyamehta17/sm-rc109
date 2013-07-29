@@ -1,3 +1,4 @@
+
 Rails cast sm-rc109
 ===================
 
@@ -53,9 +54,6 @@ then attr.changed? will return false again
 
 
 
-
-
-}
 
 
 
